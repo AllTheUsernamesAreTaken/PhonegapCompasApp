@@ -1,0 +1,2 @@
+PhonegapCompasApp
+=================
